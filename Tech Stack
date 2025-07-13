@@ -1,0 +1,9 @@
+Tech Stack
+| Category | Tools |
+|---------|-------|
+| Language | Python 3.x |
+| Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| ML | Logistic Regression, Random Forest, Gradient Boosting |
+| APIs | SpaceX REST API, OpenNotify |
+| IDE | Jupyter Notebook |
+| Deployment | GitHub |

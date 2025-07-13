@@ -72,3 +72,10 @@ falcon9-landing-prediction/
 └── report.pdf             # Final report 
 
 
+## 📄 Final Report
+
+🔍 You can read the full project report here:
+
+- [📥 Download report.pdf](./docs/report.pdf)
+- [🌐 View via GitHub Pages](https://IrynaL-dev
+-Applied-Data-Science-Capstone-specialization-.github.io/falcon9-landing-prediction/report.pdf)

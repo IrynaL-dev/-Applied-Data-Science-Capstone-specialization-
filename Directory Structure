@@ -1,0 +1,35 @@
+-Applied-Data-Science-Capstone-specialization-/
+│
+├── data/
+│   ├── raw/                 # JSON, CSV, API-sourced data
+│   └── processed/           # Cleaned and prepared datasets
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_eda_visualization.ipynb
+│   ├── 04_feature_engineering.ipynb
+│   ├── 05_modeling.ipynb
+│   ├── 06_model_evaluation.ipynb
+│   └── 07_business_insights.ipynb
+│
+├── src/
+│   ├── data.py              # Loading, saving, preprocessing
+│   ├── features.py          # Feature engineering
+│   ├── train.py             # Model training
+│   ├── evaluate.py          # Model evaluation
+│   └── utils.py             # Helper functions
+│
+├── outputs/
+│   ├── models/              # Trained models
+│   ├── figures/             # Visualizations
+│   └── results/             # Metrics, reports
+│
+├── requirements.txt         # pip-based environment
+├── environment.yml          # (optional) conda-based environment
+├── .gitignore               # Exclude caches, outputs, etc.
+├── LICENSE
+├── README.md
+└── report.pdf               # Optional business/technical summary
+
+
